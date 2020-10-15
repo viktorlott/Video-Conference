@@ -11,7 +11,7 @@ This project was build and sold to a company that wanted a video-conference solu
   - Docker
   - RethingDB
   - Janus WEBRTC - Creating rooms etc
-    - Custom module was built to connect to janus-server
+    - Video-conference room SFU
 
 
 #### Front-end
@@ -19,7 +19,7 @@ This project was build and sold to a company that wanted a video-conference solu
   - WebRTC
   - Socket IO
   - Janus WEBRTC - Connecting to rooms etc
-    - Custom module was built to connect to janus-server
+    - Custom module was built to communicate with janus-server
 
 
 #### Functions
