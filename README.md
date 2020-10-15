@@ -6,8 +6,9 @@ This project was build and sold to a company that wanted a video-conference solu
   - Nodejs
     - Socket IO is used for signaling when doing p2p, messaging or moderating room.
   - Reddis
-  - TURN
-  - STUN
+  - COTURN
+    - TURN
+    - STUN
   - Docker
   - RethingDB
   - Janus WEBRTC - Creating rooms etc
