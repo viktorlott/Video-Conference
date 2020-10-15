@@ -33,6 +33,12 @@ This project was build and sold to a company that wanted a video-conference solu
   - Videos autoscales to fit window with a 4:3 minimum ratio 
   - Debug interface
 
+#### Demo 1
+![Alt Text](https://github.com/nexriz/video-conference/blob/main/video-conference1.gif)
+
+#### Demo 2
+![Alt Text](https://github.com/nexriz/video-conference/blob/main/video-conference2.gif)
+
 #### Demo 3
 ![Alt Text](https://github.com/nexriz/video-conference/blob/main/video-conference3.gif)
 
