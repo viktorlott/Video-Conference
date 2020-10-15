@@ -22,7 +22,7 @@ This project was build and sold to a company that wanted a video-conference solu
     - Custom module was built to connect to janus-server
 
 
-#### Suppors
+#### Functions
   - Room creation
   - Moderator tools 
     - kicking/inviting.
