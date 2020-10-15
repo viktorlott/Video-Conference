@@ -34,7 +34,7 @@ This project was build and sold to a company that wanted a video-conference solu
   - Debug interface
 
 #### Demo 3
-![Alt Text](https://github.com/nexriz/video-conference/blob/master/video-conference1.gif)
+![Alt Text](https://github.com/nexriz/video-conference/blob/main/video-conference3.gif)
 
 
 ## This project was built by me alone in my spare time.
