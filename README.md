@@ -14,7 +14,7 @@ This project was build and sold to a company that wanted a video-conference solu
     - Custom module was built to connect to janus-server
 
 
-#### Fron-end
+#### Front-end
   - React
   - WebRTC
   - Socket IO
