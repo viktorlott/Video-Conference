@@ -44,5 +44,5 @@ This project was build and sold to a company that wanted a video-conference solu
 ![Alt Text](https://github.com/nexriz/video-conference/blob/main/video-conference3.gif)
 
 
-## This project was built by me alone in my spare time.
-#### Everything is created from scratch.
+#### This project was built by me alone in my spare time.
+
